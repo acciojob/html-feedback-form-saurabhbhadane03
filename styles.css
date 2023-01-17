@@ -1,2 +1,8 @@
+.btn{
+	margin-right :5px; 
+}
 
-/* Your CSS Code here. */
+.btn:hover{
+	color: red;
+	background-color : black;
+}
